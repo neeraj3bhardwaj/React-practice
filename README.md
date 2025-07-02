@@ -6,6 +6,12 @@ This repository contains two different React-based solutions for changing the ba
 
 ## 📁 Folder Structure
 
+bg-color-solutions/
+├── approach-1/
+│ └── (React project using useState directly in App)
+├── approach-2/
+│ └── (React project using props and reusable components)
+
 
 ---
 
@@ -30,6 +36,7 @@ cd approach-1
 npm install
 npm run dev
 
+💡 Tech Stack
 React
 
 Vite
